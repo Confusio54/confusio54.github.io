@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Confusio54.github.io/sitemap.xml
+Sitemap: https://ymwang.github.io/sitemap.xml
